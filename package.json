@@ -1,0 +1,20 @@
+{
+  "name": "worker-hitch",
+  "version": "0.0.1",
+  "description": "Measure performance of synchronizing DOM to VDOM in a worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lon Ingram",
+  "license": "BSD",
+  "devDependencies": {
+    "wd": "^0.3.4",
+    "selenium-standalone": "^2.42.0-2.9.0-1",
+    "q": "^1.0.1",
+    "http-server": "^0.6.1"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
